@@ -1,0 +1,16 @@
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\kata40.exe
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\kata40.pdb
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\kata40.exe.config
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\zoe.chiang85\Desktop\kata\kata40\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,7 @@
+C:\Users\zoe.chiang85\Desktop\kata\kata40\kata40\obj\Debug\kata40.csprojResolveAssemblyReference.cache
+C:\Users\zoe.chiang85\Desktop\kata\kata40\kata40\obj\Debug\kata40.csproj.CoreCompileInputs.cache
+C:\Users\zoe.chiang85\Desktop\kata\kata40\kata40\bin\Debug\kata40.exe.config
+C:\Users\zoe.chiang85\Desktop\kata\kata40\kata40\bin\Debug\kata40.exe
+C:\Users\zoe.chiang85\Desktop\kata\kata40\kata40\bin\Debug\kata40.pdb
+C:\Users\zoe.chiang85\Desktop\kata\kata40\kata40\obj\Debug\kata40.exe
+C:\Users\zoe.chiang85\Desktop\kata\kata40\kata40\obj\Debug\kata40.pdb
